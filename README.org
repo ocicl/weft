@@ -1,0 +1,10 @@
+* weft
+
+A simple network server framework.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtstickney/weft.git   |
+| commit  | 0e8d29b  |
+| systems | weft |
+|---------+-------------------------------------------|
+
